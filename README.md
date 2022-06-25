@@ -1,2 +1,2 @@
 # Card-Number
-Cari cc dari termux
+Générateur CC number for termux
